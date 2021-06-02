@@ -26,6 +26,8 @@ DOMAIN-SUFFIX,coinwind.com
 DOMAIN-SUFFIX,coinwind.pro
 DOMAIN-SUFFIX,sun.io
 DOMAIN-SUFFIX,justswap.io
+DOMAIN-SUFFIX,mainet.infura.io
+DOMAIN-SUFFIX,depth.fi
 
 # Wallet
 DOMAIN-SUFFIX,hbwallet.net
