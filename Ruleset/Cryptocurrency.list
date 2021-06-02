@@ -20,5 +20,9 @@ DOMAIN-SUFFIX,gateway.mdex.cc
 DOMAIN-SUFFIX,http-mainet.hecochain.com
 DOMAIN-SUFFIX,coinwind.com
 DOMAIN-SUFFIX,coinwind.pro
+DOMAIN-SUFFIX,sun.io
+DOMAIN-SUFFIX,justswap.io
+
+# Wallet
 DOMAIN-SUFFIX,hbwallet.net
 DOMAIN-SUFFIX,mytokenpocket.vip
