@@ -48,4 +48,8 @@ DOMAIN-SUFFIX,binance.org
 # Dapp
 DOMAIN-SUFFIX,tronscan.io
 DOMAIN-SUFFIX,tronscan.org
+DOMAIN-SUFFIX,yfx.com
+DOMAIN-SUFFIX,hogt.com
+DOMAIN-SUFFIX,quickchart.io
 
+# Swap
