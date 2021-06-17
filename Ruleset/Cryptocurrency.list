@@ -34,6 +34,8 @@ DOMAIN-SUFFIX,mytokenpocket.vip
 DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,api.hbwalletapi.net
+DOMAIN-SUFFIX,api.quickwallet.io
+
 # Miner
 DOMAIN-SUFFIX,unmineable.com
 DOMAIN-SUFFIX,unminable.com
