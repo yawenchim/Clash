@@ -43,6 +43,7 @@ DOMAIN-SUFFIX,unminable.com
 # Chain
 DOMAIN-SUFFIX,hecochain.com
 DOMAIN-SUFFIX,tronalliance.com
+DOMAIN-SUFFIX,tronalliance.cc
 DOMAIN-SUFFIX,trongrid.io
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,binance.org
@@ -59,3 +60,5 @@ DOMAIN-SUFFIX,api.coingecko.com
 DOMAIN-SUFFIX,min-api.cryptocompare.com
 
 # Swap
+DOMAIN-SUFFIX,justswap.io
+DOMAIN-SUFFIX,just.network
