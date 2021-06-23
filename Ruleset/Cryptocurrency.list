@@ -58,6 +58,7 @@ DOMAIN-SUFFIX,quickchart.io
 DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,api.coingecko.com
 DOMAIN-SUFFIX,min-api.cryptocompare.com
+DOMAIN-SUFFIX,wink.org
 
 # Swap
 DOMAIN-SUFFIX,justswap.io
