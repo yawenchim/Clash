@@ -46,6 +46,7 @@ DOMAIN-SUFFIX,tronalliance.com
 DOMAIN-SUFFIX,trongrid.io
 DOMAIN-SUFFIX,infura.io
 DOMAIN-SUFFIX,binance.org
+DOMAIN-SUFFIX,http-mainnet-node.huobichain.com
 
 # Dapp
 DOMAIN-SUFFIX,tronscan.io
@@ -54,5 +55,7 @@ DOMAIN-SUFFIX,yfx.com
 DOMAIN-SUFFIX,hogt.com
 DOMAIN-SUFFIX,quickchart.io
 DOMAIN-SUFFIX,ajax.cloudflare.com
+DOMAIN-SUFFIX,api.coingecko.com
+DOMAIN-SUFFIX,min-api.cryptocompare.com
 
 # Swap
