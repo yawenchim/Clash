@@ -27,6 +27,7 @@ DOMAIN-SUFFIX,sun.io
 DOMAIN-SUFFIX,justswap.io
 DOMAIN-SUFFIX,depth.fi
 DOMAIN-SUFFIX,coin.top
+DOMAIN-SUFFIX,westarter.org
 
 # Wallet
 DOMAIN-SUFFIX,hbwallet.net
@@ -59,6 +60,7 @@ DOMAIN-SUFFIX,ajax.cloudflare.com
 DOMAIN-SUFFIX,api.coingecko.com
 DOMAIN-SUFFIX,min-api.cryptocompare.com
 DOMAIN-SUFFIX,wink.org
+DOMAIN-SUFFIX,api.faviconkit.com
 
 # Swap
 DOMAIN-SUFFIX,justswap.io
