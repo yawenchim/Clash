@@ -36,8 +36,8 @@ DOMAIN-SUFFIX,hbwallet.net
 DOMAIN-SUFFIX,mytokenpocket.vip
 DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,tronlink.org
-DOMAIN-SUFFIX,api.hbwalletapi.net
-DOMAIN-SUFFIX,api.quickwallet.io
+DOMAIN-SUFFIX,hbwalletapi.net
+DOMAIN-SUFFIX,quickwallet.io
 
 # Miner
 DOMAIN-SUFFIX,unmineable.com
@@ -59,10 +59,10 @@ DOMAIN-SUFFIX,yfx.com
 DOMAIN-SUFFIX,hogt.com
 DOMAIN-SUFFIX,quickchart.io
 DOMAIN-SUFFIX,ajax.cloudflare.com
-DOMAIN-SUFFIX,api.coingecko.com
+DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,min-api.cryptocompare.com
 DOMAIN-SUFFIX,wink.org
-DOMAIN-SUFFIX,api.faviconkit.com
+DOMAIN-SUFFIX,faviconkit.com
 
 # Swap
 DOMAIN-SUFFIX,justswap.io
