@@ -1,4 +1,4 @@
-# 交易所
+# CEFI
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,bibox.com
 DOMAIN-SUFFIX,binance.cc
@@ -21,6 +21,7 @@ DOMAIN-SUFFIX,xfilecache.com
 DOMAIN-SUFFIX,woodpeckerlog.com
 DOMAIN-SUFFIX,bitvj.com
 DOMAIN-SUFFIX,bitvk.com
+DOMAIN-SUFFIX,bitderiv.com
 
 # Defi
 DOMAIN-SUFFIX,mdex.com
