@@ -60,6 +60,9 @@ DOMAIN-SUFFIX,tokenpocket.pro
 DOMAIN-SUFFIX,tronlink.org
 DOMAIN-SUFFIX,hbwalletapi.net
 DOMAIN-SUFFIX,quickwallet.io
+DOMAIN-SUFFIX,metamask.io
+
+
 
 # Miner
 DOMAIN-SUFFIX,unmineable.com
